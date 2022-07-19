@@ -8,7 +8,7 @@ I am a hard-core geek with a passion for building beautiful & elegant software &
 
 ## Language & Tools
 
-
+## GitHub Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nii3601&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nii3601&show_icons=true&theme=dark)
